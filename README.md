@@ -4,3 +4,5 @@ Template for course repository
 As you complete each lab, you should provide a description of your features and changes here.
 
 ## VR Lab: TITLE HERE
+
+*User has to pull weeds to complete level
