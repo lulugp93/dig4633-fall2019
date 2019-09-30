@@ -13,8 +13,11 @@ public class DoOnPlace : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-     // public DoOnPlaceBehaviour(){
-      //      Debug.Log("Placed Content");
-      //  }  
+     
+    }
+
+    public void DoOnPlaceBehaviour()
+    {
+        Debug.Log("Placed Content");
     }
 }
