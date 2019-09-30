@@ -3,6 +3,8 @@ Template for course repository
 
 As you complete each lab, you should provide a description of your features and changes here.
 
-## VR Lab: TITLE HERE
+## VR Lab: Chicken Hunt!
 
-*User has to pull weeds to complete level
+*User has to find a chicken and return it to the chicken coop
+
+RUMPLESTILTSKIN(sp?)
